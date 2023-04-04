@@ -1,1 +1,1 @@
-"# shopemart-client" 
+"# shope-mart-client" 
