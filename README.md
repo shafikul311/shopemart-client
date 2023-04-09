@@ -1,1 +1,1 @@
-"# Shope mart React web app with tailwindcss" 
+"# Shope mart React web app grocry shop with tailwindcss" 
