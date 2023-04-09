@@ -1,1 +1,1 @@
-"# shope-mart-client" 
+"# Shope mart React web app with tailwindcss" 
